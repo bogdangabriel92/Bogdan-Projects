@@ -1,0 +1,7 @@
+show_id,type,title,director,cast,country,date_added,release_year,duration,description,genre
+s1,Movie,Action Hero,John Doe,"Actor A, Actor B",USA,"January 1, 2020",1995,95,Action packed thriller,Action
+s2,Movie,Romantic Times,Jane Smith,"Actor C, Actor D",UK,"March 5, 2021",1992,85,Love story,Romance
+s3,TV Show,TV Series 1,TV Director,TV Cast,Canada,"June 10, 2022",2005,2,TV series fun,Drama
+s4,Movie,The 90s Hit,Old Director,"Actor E, Actor F",USA,"May 1, 2020",1990,100,A great hit of the 90s,Action
+s5,Movie,Fast Run,Speedy Guy,Actor G,France,"July 7, 2021",1997,88,Fast-paced action,Action
+s6,Movie,Deep Dive,Diver Dan,Actor H,Germany,"Aug 8, 2022",1993,78,Deep sea drama,Action
