@@ -34,6 +34,7 @@ This project explores movie data from Netflix to analyze trends in movie duratio
 | `netflix_movies_1990s.csv` Filtered dataset: 1990s movies only              |
 | `netflix_project.py`     | Python filtering and exploring                   |
 | `netflix_analysis.ipynb` | Jupyter Notebook with full code and outputs      |
+| `moviesdashboard.pbix`   | Power BI dashboard - filtering and results distribution     |
 | `README.md`              | This documentation file                          |
 
 
@@ -62,4 +63,5 @@ This project explores movie data from Netflix to analyze trends in movie duratio
 
 • [LinkedIn](https://www.linkedin.com/in/bogdan-gabriel-534297247/) 
 • [GitHub](https://github.com/bogdangabriel92)
+
 
