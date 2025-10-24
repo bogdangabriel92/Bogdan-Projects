@@ -46,6 +46,7 @@ This project explores movie data from Netflix to analyze trends in movie duratio
 - pandas
 - matplotlib
 - Jupyter Notebook (Visual Studio Code)
+- Power BI
 
 ---
 
@@ -63,5 +64,6 @@ This project explores movie data from Netflix to analyze trends in movie duratio
 
 • [LinkedIn](https://www.linkedin.com/in/bogdan-gabriel-534297247/) 
 • [GitHub](https://github.com/bogdangabriel92)
+
 
 
