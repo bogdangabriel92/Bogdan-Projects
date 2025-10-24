@@ -14,6 +14,7 @@ The goal is to identify:
 |------|--------------|
 | `schools.csv` • Dataset with average SAT scores by subject and borough |
 | `analysis.py` • Python script performing the analysis |
+| `schoolsdashboard.pbix` • Power BI dashboard - filtering and results distribution |
 | `README.md` • Project documentation |
 
 ---
@@ -36,5 +37,6 @@ Stuyvesant High School,Manhattan,760,700,710
 Brooklyn Tech,Brooklyn,740,660,670
 LaGuardia High School,Manhattan,700,650,660
 ...
+
 
 
