@@ -1,0 +1,11 @@
+account_id,customer_id,account_type,open_date
+1001,1,Current,2024-01-06
+1002,2,Current,2024-02-15
+1003,3,Savings,2024-03-03
+1004,4,Current,2024-01-23
+1005,5,Savings,2024-03-20
+1006,6,Current,2024-03-01
+1007,7,Current,2024-01-11
+1008,8,Savings,2024-03-26
+1009,9,Current,2024-02-06
+1010,10,Current,2024-02-01
