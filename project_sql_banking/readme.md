@@ -4,26 +4,6 @@ This project simulates a simplified retail banking environment and demonstrates 
 
 **Objective:** Analyze monthly income, expenses, and net balance evolution, plus customer transaction volumes, and design an interactive dashboard suitable for corporate financial reporting.
 
-
-## Project Structure
-
-banking_sql_dashboard/
-├─ data/
-│ ├─ customers.csv
-│ ├─ accounts.csv
-│ └─ transactions.csv
-├─ sql/
-│ ├─ create_tables.sql
-│ ├─ insert_sample_data.sql
-│ ├─ analysis_queries.sql
-│ └─ export_results.sql
-├─ results/
-│ ├─ kpi_monthly_summary.csv
-│ └─ top_customers.csv
-├─ powerbi/
-│ └─ banking_dashboard.pbix
-└─ README.md
-
 ## SQL Stage (Data Modeling)
 
 ### 1. `create_tables.sql`
@@ -91,5 +71,6 @@ Top 5 Customers (Bar): customer_name by total_transaction_volume
 - results/: analytical outputs (CSVs for reporting)
 
 - powerbi/banking_dashboard.pbix: interactive dashboard
+
 
 - README.md: documentation (this file)
